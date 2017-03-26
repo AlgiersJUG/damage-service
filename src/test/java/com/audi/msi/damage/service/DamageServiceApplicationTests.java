@@ -1,4 +1,4 @@
-package com.audi.msi.service;
+package com.audi.msi.damage.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
